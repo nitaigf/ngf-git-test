@@ -1,2 +1,3 @@
 GITHUB
 WIN e WSL-Ubuntu
+VERIFIED
